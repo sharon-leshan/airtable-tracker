@@ -15,7 +15,7 @@ clone this repo
 
 Change to the project directory
 
-`cd airtable-project-tracker`
+`cd airtable-tracker`
 
 Run yarn command to install packages
 
